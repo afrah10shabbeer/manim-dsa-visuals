@@ -1,3 +1,7 @@
+## Manim DSA Animation Visuals
+
+A collection of customizable Manim templates for visualizing the core layouts of data structures. This project provides skeletons for arrays, stacks, queues, tables, and graphs, designed for easy modification and experimentation. It emphasizes structural visualization without including algorithm logic, making it ideal for learning, teaching, or creating your own animations. Additional templates and features will be added in future updates.
+
 <img width="1333" height="897" alt="image" src="https://github.com/user-attachments/assets/a1171058-cd58-476e-9cf1-b31172763ffe" />
 
 <img width="1088" height="845" alt="image" src="https://github.com/user-attachments/assets/f918bc82-e952-46f8-b3f9-c85e31ce6a1f" />
